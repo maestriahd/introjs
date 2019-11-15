@@ -24,4 +24,4 @@ El DOM representa las etiquetas de un documento como objetos con propiedades y f
 
 [Documentación de JavaScript en el sitio de Mozilla](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia)
 
-[Docuentación del Modelo de Objetos del Documento en Mozilla](https://developer.mozilla.org/es/docs/DOM)
+[Documentación del Modelo de Objetos del Documento en Mozilla](https://developer.mozilla.org/es/docs/DOM)
